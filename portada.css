@@ -1,0 +1,19 @@
+.l {
+    margin-left: 1%;
+}
+
+.g {
+    margin-left: 32%;
+}
+
+.h {
+    margin-right: 1%;
+    margin-left: 75%;
+    align-content: left;
+}
+
+.table {
+    width: 100%;
+    border: 1rem;
+    border-color: grey;
+}
